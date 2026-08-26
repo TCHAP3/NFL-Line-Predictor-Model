@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+nfl_data_py
+pyarrow
